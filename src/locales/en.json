@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Lost and Found Co Wiki: Walkthroughs, Hidden Objects & Tips",
+      "description": "Complete Lost and Found Co guide with stage walkthroughs, hidden object locations, Juju tips, side quests, achievements, and room customization help."
     },
     "hero": {
       "eyebrow": "Cozy Hidden Object Adventure",
@@ -28,299 +28,385 @@
       "videoLabel": "Official gameplay trailer"
     },
     "updates": {
-      "title": "Latest Updates",
+      "title": "Latest Lost and Found Co Updates",
       "browse": "Browse All Guides",
       "viewAll": "View All"
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Lost and Found Co Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core search loop, objective types, and the habits that keep crowded Plumville scenes manageable."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Hidden Object Search",
+          "description": "Scan in layers, open interactive props, and use zoom and pan to spot the item everyone misses."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Juju & Hints",
+          "description": "Catch hidden Juju early, then spend their hints on the last stubborn object instead of the first frustrating room."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "100% Completion",
+          "description": "Plan story clears, optional cleanups, and all 31 Steam achievements without grinding a stage that has no trophy."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Popular Lost and Found Co Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Story Walkthrough",
+        "Hidden Objects",
+        "Juju Locations",
+        "31 Achievements"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Lost and Found Co Beginner Guide",
+          "description": "Learn the search loop, objective types, Juju timing, and the habits that make crowded scenes easier.",
+          "href": "/guide/lost-and-found-co-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Lost and Found Co Walkthrough",
+          "description": "Follow the campaign structure, a practical room-sweep method, and the documented route to 100%.",
+          "href": "/guide/lost-and-found-co-walkthrough"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Lost and Found Co Hidden Objects",
+          "description": "Track balloons, golden toy capsules, hidden mandrakes, and other easy-to-miss stage targets.",
+          "href": "/collectibles/lost-and-found-co-balloon-locations"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Lost and Found Co Level Solutions",
+          "description": "See which stages demand the most careful cleanup and how to handle story cases, requests, and optional goals.",
+          "href": "/mechanics/lost-and-found-co-levels"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Lost and Found Co Achievements",
+          "description": "Work through all 31 Steam achievements with stage completion routes and cleanup tactics.",
+          "href": "/guide/lost-and-found-co-100-completion"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Lost and Found Co Juju Locations",
+          "description": "Find hidden Juju, recognize their grey wobbly outlines, and save their hints for stubborn objectives.",
+          "href": "/items/lost-and-found-co-juju-locations"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Guide",
+          "title": "Lost and Found Co Characters",
+          "description": "Meet Ducky, Mei, Kit, and Zorro, and learn how the core cast connects to Plumville and room decor.",
+          "href": "/mechanics/lost-and-found-co-characters"
+        },
+        {
+          "badge": "Guide",
+          "title": "Lost and Found Co Side Quests",
+          "description": "Clear KOZ requests, Playtime at Kenta's, optional objectives, and other side content.",
+          "href": "/quests/lost-and-found-co-side-quests"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Lost and Found Co Switch Release",
+          "description": "Track the confirmed Nintendo Switch and Switch 2 release window and platform details.",
+          "href": "/platforms/lost-and-found-co-switch-release-date"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Lost and Found Co?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Lost and Found Co. is a cozy hidden object adventure from Bit Egg Inc. You play as Ducky, a duck transformed into a human intern, and help the fading goddess Mei run a lost-property business in Plumville. Each case sends you through hand-drawn, layered scenes to recover missing objects, solve small puzzles, and uncover the stories behind the town's residents.",
+        "The campaign spans 11 story chapters and more than 15 stages, with requests, optional objectives, hidden Juju, and a room you can decorate with furniture from Kit's shop. Post-launch updates have added new stages and localization, while a Switch and Switch 2 release is planned for early 2027."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Bit Egg Inc."
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC / Steam"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Hidden Object"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Release",
+          "value": "Mar 5, 2026"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Copies Sold",
+          "value": "100K+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Chapters",
+          "value": "11"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the Lost and Found Co Wiki",
+      "description": "Work through every Lost and Found Co stage with walkthroughs, hidden object locations, side quest routes, achievement checklists, room decor tips, and update coverage.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Lost and Found Co Walkthrough",
+          "description": "Follow the story campaign from the first case to the final chapter with a practical search method, stage-order advice, and cleanup routes for stubborn objectives.",
+          "href": "/guide/lost-and-found-co-walkthrough",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Click a HUD objective for a free hint before searching the room."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Scan skyline and hanging props first, then shelves and counters, then floor clutter."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Open signs, drawers, boxes, trays, and prop edges before rechecking the whole scene."
+            },
+            {
+              "label": "4",
+              "detail": "Zoom in on tiny targets and pan across packed areas instead of clicking blind."
+            },
+            {
+              "label": "5",
+              "detail": "Save Juju hints for the last stubborn object or the last unsearched zone."
+            },
+            {
+              "label": "6",
+              "detail": "Replay stages for optional objectives and achievements while the layout is fresh."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Lost and Found Co Hidden Object Locations",
+          "description": "Track easy-to-miss targets across Plumville, from event balloons and golden toy capsules to hidden mandrakes and optional Juju.",
+          "href": "/collectibles/lost-and-found-co-balloon-locations",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Balloons",
+              "detail": "Find all 8 balloons in What an Unlucky Day, including the donut and chicken signs."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Toy Caps",
+              "detail": "Golden toy capsules are an optional objective on Hop Street."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Mandrake",
+              "detail": "Check the farm planting plots left of the house in Runaway Foxes."
+            },
+            {
+              "label": "Juju",
+              "detail": "Grey, wobbly objects hide extra hints across Plumville stages."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Lost and Found Co Beginner Guide",
+          "description": "Learn the core hidden-object loop, objective types, search habits, and early progression tips that make the first chapters much smoother.",
+          "href": "/guide/lost-and-found-co-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "1",
+              "detail": "Clear HUD objectives first because they are the required path and provide free hints."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "2",
+              "detail": "Search one zone at a time instead of clicking randomly across the whole scene."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "3",
+              "detail": "Treat an Obscured clue as a prompt to open the nearest interactive prop."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "4",
+              "detail": "Follow Quest chains until the target list stops changing."
+            },
+            {
+              "label": "5",
+              "detail": "Collect Juju early, but spend their hints late."
+            },
+            {
+              "label": "6",
+              "detail": "Return after the story to clean up optional goals and stage achievements."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Lost and Found Co Level Solutions",
+          "description": "Compare stage cleanup demands and use targeted routes for dense maps, request stages, and later update content.",
+          "href": "/mechanics/lost-and-found-co-levels",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Hop Street, Jolly Jug Isle, and Nekoten Cafe are the densest cleanup runs."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Breezy Hill Heights, Leo Family's Home, and Kenta's House are busy multi-zone maps."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Love After Life and Fangtastic Feast add layered rooms and newer objective lists."
+            },
+            {
+              "label": "C",
+              "detail": "The First Request and Morning Madness are early stages for learning search routes."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Lost and Found Co Side Quests",
+          "description": "Cover optional request levels and KOZ quests, including their objectives, hidden target routes, completion requirements, and rewards.",
+          "href": "/quests/lost-and-found-co-side-quests",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Requests",
+              "detail": "Side jobs reuse locations with their own target lists."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "KOZ",
+              "detail": "Waiting for a Bite and Apartment Apocalypse are the longest optional hunts."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Kenta",
+              "detail": "Playtime at Kenta's is the easier KOZ-style quest."
+            },
+            {
+              "label": "Optional",
+              "detail": "Check the To-do UI after quest unlocks and clear bonus goals on a replay."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Lost and Found Co Achievements Guide",
+          "description": "Track the current Steam achievement list and unlock conditions for story stages, requests, optional objectives, and full completion.",
+          "href": "/guide/lost-and-found-co-achievement-guide",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Unlucky Ducky",
+              "detail": "Complete the Unlucky Ducky story stage for its named achievement."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "The Sus Fox",
+              "detail": "Earned by completing The Suspicious Fox stage."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Waiting for a Bite",
+              "detail": "Clear the request stage and its full optional target list."
+            },
+            {
+              "label": "Tea Time Troubles",
+              "detail": "Complete the Tea Time Troubles request stage."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Lost and Found Co Room Customization",
+          "description": "Explore Ducky's Room with furniture and decorative items from Kit's shop, including how to obtain, place, resize, and layer decor.",
+          "href": "/mechanics/lost-and-found-co-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kit Shop",
+              "detail": "Buy furniture and decorative items from the in-game Kit Shop."
+            },
+            {
+              "label": "Decor",
+              "detail": "Move, resize, and layer items to build different room designs."
+            },
+            {
+              "label": "Office",
+              "detail": "Mei's shrine becomes the office hub as the business grows."
+            },
+            {
+              "label": "Halloween",
+              "detail": "Patch 1.2.1 added new items, including Halloween-themed decor."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Lost and Found Co Updates and New Content",
+          "description": "Track official updates, newly added stages, localization changes, gameplay fixes, and the announced Nintendo Switch and Switch 2 versions.",
+          "href": "/platforms/lost-and-found-co-switch-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Fall",
+              "detail": "The October 1, 2026 update added Love After Life and Fangtastic Feast."
+            },
+            {
+              "label": "Switch",
+              "detail": "Nintendo Switch and Switch 2 versions are planned for early 2027."
+            },
+            {
+              "label": "Korean",
+              "detail": "The October update added Korean localization and a dialogue history feature."
+            },
+            {
+              "label": "Patch",
+              "detail": "Version 1.2.1 fixed a Love After Life soft-lock and a Fangtastic Feast objective display bug."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Lost and Found Co FAQ",
+      "description": "Straight answers about Lost and Found Co story structure, Juju hints, playtime, platforms, and achievements.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Lost and Found Co?",
+          "answer": "Lost and Found Co is a cozy hidden object adventure from Bit Egg Inc. You play as Ducky, a duck transformed into a human intern, and help the goddess Mei recover lost items for the residents of Plumville."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How many chapters does Lost and Found Co have?",
+          "answer": "Lost and Found Co has 11 story chapters and more than 15 hidden-object stages. Requests, optional objectives, and post-launch stages add more content beyond the main campaign."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How long does Lost and Found Co take to beat?",
+          "answer": "Lost and Found Co takes about 8.5 hours for the main story, around 13 hours for the main story plus side objectives, and about 18 hours for a completionist run."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do Juju work in Lost and Found Co?",
+          "answer": "Juju in Lost and Found Co are hidden helpers disguised as ordinary objects with grey, wobbly outlines. Catching one grants extra hints that are best saved for the last stubborn target in a stage."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How many achievements does Lost and Found Co have?",
+          "answer": "Lost and Found Co has 31 Steam achievements. Most are tied to completing story stages, request stages, optional objectives, and full stage cleanups."
+        },
+        {
+          "question": "Which platforms is Lost and Found Co available on?",
+          "answer": "Lost and Found Co is available on PC through Steam and is Steam Deck Verified. Nintendo Switch and Switch 2 versions are planned for early 2027."
         }
       ]
     },
