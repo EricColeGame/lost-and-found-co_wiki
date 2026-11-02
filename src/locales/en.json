@@ -6,7 +6,17 @@
     "description": "Explore Plumville in Lost and Found Co with walkthroughs, hidden object locations, puzzle solutions, collectibles, characters, and quest guides.",
     "legalNotice": "Non-official fan wiki. Lost and Found Co and related marks belong to their respective owners."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "quests": "Quests",
+    "items": "Items",
+    "collectibles": "Collectibles",
+    "mechanics": "Mechanics",
+    "platforms": "Platforms",
+    "community": "Community",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Lost and Found Co Wiki: Walkthroughs, Hidden Objects & Tips",
@@ -417,12 +427,41 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Lost and Found Co Guides",
+    "overviewDescription": "Start with Lost and Found Co beginner guides, story walkthroughs, achievement help, and practical tips for every hidden-object stage."
+  },
+  "quests": {
+    "overviewTitle": "Lost and Found Co Quest Walkthroughs",
+    "overviewDescription": "Follow Lost and Found Co quest walkthroughs for story chapters, side requests, optional objectives, and every tricky hidden-object search."
+  },
+  "items": {
+    "overviewTitle": "Lost and Found Co Item Locations",
+    "overviewDescription": "Find Lost and Found Co item locations for Juju, socks, coupons, dishes, wallets, and other quest objects across Plumville."
+  },
+  "collectibles": {
+    "overviewTitle": "Lost and Found Co Collectibles",
+    "overviewDescription": "Track down Lost and Found Co collectibles, including balloons, golden toy capsules, rare beetles, lost chicks, and hidden secret rooms."
+  },
+  "mechanics": {
+    "overviewTitle": "Lost and Found Co Mechanics",
+    "overviewDescription": "Understand Lost and Found Co characters, level structure, optional objectives, secret rooms, and the systems behind each search."
+  },
+  "platforms": {
+    "overviewTitle": "Lost and Found Co Platforms",
+    "overviewDescription": "Check Lost and Found Co availability on Steam, Steam Deck, Android, Nintendo Switch, and Switch 2, with release details and setup notes."
+  },
+  "community": {
+    "overviewTitle": "Lost and Found Co Community",
+    "overviewDescription": "Browse Lost and Found Co community resources, player reviews, Reddit discussions, and shared discoveries from fellow treasure hunters."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "startHere": "Start Here",
+    "beginnerGuide": "Beginner Guide",
+    "collectiblesGuide": "Collectibles Guide",
+    "browseGuides": "Browse all guides",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -453,9 +492,9 @@
     "officialTikTok": "Official TikTok",
     "officialBluesky": "Official Bluesky",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "questGuides": "Quest Walkthroughs",
+    "itemGuides": "Item Locations",
+    "collectibleGuides": "Collectibles",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
