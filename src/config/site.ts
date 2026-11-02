@@ -19,18 +19,19 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Lost and Found Co Wiki",
+  shortName: "Lost & Found Co",
+  logoText: "LF",
+  tagline: "Hidden Object Walkthroughs, Puzzle Solutions & Collectibles",
+  description: "Explore Plumville in Lost and Found Co with walkthroughs, hidden object locations, puzzle solutions, collectibles, characters, and quest guides.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://lost-and-found-co.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://lost-and-found-co.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/2101390/Lost_and_Found_Co/",
+  heroVideoId: "QG8rYWH1dP8", // Lost and Found Co official gameplay trailer
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://discord.gg/MwcmyjvWmq",
+    youtube: "https://www.youtube.com/@lostandfoundco_game",
+    twitter: "https://x.com/_LostAndFoundCo",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
