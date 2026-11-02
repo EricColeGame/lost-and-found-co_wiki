@@ -7,18 +7,20 @@ import { routing, type Locale } from "@/i18n/routing";
 import en from "@/locales/en.json";
 import HomePageClient from "./HomePageClient";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top";
+const siteUrl = siteConfig.url;
+const homeTitle = "Lost and Found Co Wiki - Walkthrough & Hidden Objects";
+const homeDescription = "Find every hidden object in Lost and Found Co with detailed walkthroughs, puzzle solutions, collectible locations, character guides, and tips for exploring Plumville.";
 
 type Messages = typeof en;
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
-  const messages = (await getMessages({ locale })) as Messages;
   return {
-    title: messages.home.meta.title,
-    description: messages.home.meta.description,
+    title: homeTitle,
+    description: homeDescription,
     alternates: { canonical: `/${locale}`, languages: Object.fromEntries(routing.locales.map((loc) => [loc, `/${loc}`])) },
-    openGraph: { title: messages.home.meta.title, description: messages.home.meta.description, url: `${siteUrl}/${locale}`, images: [`${siteUrl}/images/hero.webp`] },
+    openGraph: { title: homeTitle, description: homeDescription, url: `${siteUrl}/${locale}`, images: [{ url: `${siteUrl}/images/hero.webp`, width: 1920, height: 1080, alt: "Lost and Found Co Wiki" }] },
+    twitter: { card: "summary_large_image", title: homeTitle, description: homeDescription, images: [`${siteUrl}/images/hero.webp`] },
   };
 }
 
@@ -27,7 +29,7 @@ export default async function LocaleHomePage({ params }: { params: Promise<{ loc
   const loc = locale as Locale;
   const messages = (await getMessages({ locale })) as Messages;
   const navGroups = getDynamicNavigation(loc);
-  const webSite = { "@context": "https://schema.org", "@type": "WebSite", name: siteConfig.name, url: siteUrl, description: messages.home.meta.description };
+  const webSite = { "@context": "https://schema.org", "@type": "WebSite", name: siteConfig.name, url: `${siteUrl}/${locale}`, inLanguage: locale, description: homeDescription };
 
   // 动态加载所有 content 目录下的文章
   const allArticles: ContentItem[] = [];

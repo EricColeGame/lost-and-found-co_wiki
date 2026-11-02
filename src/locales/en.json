@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "Lost and Found Co Wiki",
+    "shortName": "Lost and Found Co",
+    "tagline": "Hidden Object Walkthroughs, Puzzle Solutions & Collectibles",
+    "description": "Explore Plumville in Lost and Found Co with walkthroughs, hidden object locations, puzzle solutions, collectibles, characters, and quest guides.",
+    "legalNotice": "Non-official fan wiki. Lost and Found Co and related marks belong to their respective owners."
   },
   "nav": {
     "races": "Races",
@@ -30,19 +30,19 @@
       "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Cozy Hidden Object Adventure",
+      "title": "Lost and Found Co Wiki",
+      "description": "Explore the whimsical world of Plumville in Lost and Found Co. Discover hidden objects, solve clever puzzles, complete character quests, and uncover secrets with Ducky and Mei. Find walkthroughs, item locations, puzzle solutions, and collectible guides.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "100K+ Copies Sold",
+        "1,748 Peak CCU",
+        "97% Positive Reviews",
+        "Released Mar 5, 2026"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "primaryCta": "Walkthrough Guides",
+      "secondaryCta": "Collectibles & Maps",
+      "tertiaryCta": "Play on Steam",
+      "videoLabel": "Official gameplay trailer"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
-      "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "title": "Ready to Find Everything in Plumville?",
+      "description": "Follow step-by-step walkthroughs, hidden object locations, puzzle solutions, and collectible guides for Lost and Found Co.",
+      "primary": "Browse Walkthroughs",
+      "secondary": "Play on Steam"
     }
   },
   "bosses": {
@@ -379,17 +379,22 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Lost and Found Co Wiki",
+    "about": "Lost and Found Co Wiki is an independent fan-built guide hub covering walkthroughs, hidden objects, puzzles, collectibles, characters, and essential tips for exploring Plumville.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 Lost and Found Co Wiki. Not affiliated with Bit Egg Inc. or its partners.",
+    "description": "Cozy hidden object adventure from Bit Egg Inc. Explore Plumville, solve puzzles, and find every collectible.",
+    "playGame": "Play on Steam",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Official Website",
+    "officialX": "Official X",
+    "officialInstagram": "Official Instagram",
+    "officialFacebook": "Official Facebook",
+    "officialTikTok": "Official TikTok",
+    "officialBluesky": "Official Bluesky",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",

@@ -3,8 +3,8 @@ import { LegalPage } from "@/components/legal-page";
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>Lost and Found Co Wiki is an independent fan-built guide hub covering walkthroughs, hidden objects, puzzle solutions, collectibles, characters, and essential tips for exploring Plumville.</p>
+      <p>Our goal is to help new and veteran players find every item and complete every quest in this cozy hidden object adventure from Bit Egg Inc.</p>
     </LegalPage>
   );
 }

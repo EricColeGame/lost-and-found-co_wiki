@@ -40,8 +40,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       shortcut: "/favicon.ico",
     },
     appleWebApp: { capable: true, statusBarStyle: "default", title: "Lost and Found Co Wiki" },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, title: "Lost and Found Co Wiki", description: siteConfig.description, images: [{ url: image, width: 1920, height: 1080, alt: "Lost and Found Co Wiki" }] },
+    twitter: { card: "summary_large_image", title: "Lost and Found Co Wiki", description: siteConfig.description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -58,6 +58,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     url: siteUrl,
     logo: `${siteUrl}/android-chrome-512x512.png`,
     image: `${siteUrl}/images/hero.webp`,
+    sameAs: [siteConfig.websiteUrl, siteConfig.social?.discord, siteConfig.social?.youtube, siteConfig.social?.twitter, siteConfig.social?.instagram, siteConfig.social?.facebook, siteConfig.social?.tiktok, siteConfig.social?.bluesky].filter(Boolean),
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
