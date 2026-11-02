@@ -1,3 +1,5 @@
+import { routing } from "@/i18n/routing";
+
 export interface SiteConfig {
   name: string;
   shortName: string;
@@ -42,6 +44,6 @@ export const siteConfig: SiteConfig = {
     tiktok: "https://www.tiktok.com/@lostandfoundco_game",
     bluesky: "https://bsky.app/profile/lostandfoundco.bsky.social",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: routing.locales,
   defaultLocale: "en",
 };
