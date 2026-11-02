@@ -1,1 +1,501 @@
-{}
+{
+  "site": {
+    "name": "Lost and Found Co Wiki",
+    "shortName": "Lost and Found Co",
+    "tagline": "Wimmelbild-Komplettlösungen, Rätsellösungen & Sammelobjekte",
+    "description": "Erkunde Plumville in Lost and Found Co mit Komplettlösungen, Fundorten verborgener Objekte, Rätsellösungen, Sammelobjekten, Charakteren und Quest-Leitfäden.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Lost and Found Co und zugehörige Marken gehören ihren jeweiligen Inhabern."
+  },
+  "nav": {
+    "guide": "Leitfaden",
+    "quests": "Quests",
+    "items": "Gegenstände",
+    "collectibles": "Sammelobjekte",
+    "mechanics": "Mechaniken",
+    "platforms": "Plattformen",
+    "community": "Community",
+    "menu": "Menü",
+    "toggleTheme": "Design umschalten"
+  },
+  "home": {
+    "meta": {
+      "title": "Lost and Found Co Wiki: Komplettlösungen, verborgene Objekte & Tipps",
+      "description": "Vollständiger Leitfaden zu Lost and Found Co mit Level-Komplettlösungen, Fundorten verborgener Objekte, Juju-Tipps, Nebenquests, Erfolgen und Hilfe zur Raumgestaltung."
+    },
+    "hero": {
+      "eyebrow": "Gemütliches Wimmelbild-Abenteuer",
+      "title": "Lost and Found Co Wiki",
+      "description": "Erkunde die skurrile Welt von Plumville in Lost and Found Co. Entdecke verborgene Objekte, löse clevere Rätsel, schließe Charakterquests ab und enthülle Geheimnisse mit Ducky und Mei. Finde Komplettlösungen, Gegenstandsstandorte, Rätsellösungen und Leitfäden zu Sammelobjekten.",
+      "stats": [
+        "100K+ verkaufte Exemplare",
+        "1,748 Spitzen-CCU",
+        "97% positive Bewertungen",
+        "Veröffentlicht am 5. März 2026"
+      ],
+      "primaryCta": "Komplettlösungen",
+      "secondaryCta": "Sammelobjekte & Karten",
+      "tertiaryCta": "Auf Steam spielen",
+      "videoLabel": "Offizieller Gameplay-Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates zu Lost and Found Co",
+      "browse": "Alle Leitfäden durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise durch Lost and Found Co",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteigerleitfaden",
+          "description": "Lerne die grundlegende Suchschleife, Zieltypen und die Gewohnheiten kennen, die überfüllte Plumville-Szenen überschaubar halten."
+        },
+        {
+          "number": "2",
+          "title": "Suche nach verborgenen Objekten",
+          "description": "Suche schichtweise, öffne interaktive Requisiten und nutze Zoom und Schwenken, um den Gegenstand zu entdecken, den alle übersehen."
+        },
+        {
+          "number": "3",
+          "title": "Juju & Hinweise",
+          "description": "Fange versteckte Juju früh und setze ihre Hinweise dann für das letzte hartnäckige Objekt ein statt für den ersten frustrierenden Raum."
+        },
+        {
+          "number": "4",
+          "title": "100% Abschluss",
+          "description": "Plane Story-Durchläufe, optionale Aufräumaktionen und alle 31 Steam-Erfolge, ohne ein Level zu grinden, das keine Trophäe hat."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Beliebte Leitfäden zu Lost and Found Co",
+      "quickLinks": [
+        "Story-Komplettlösung",
+        "Verborgene Objekte",
+        "Juju-Fundorte",
+        "31 Erfolge"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Lost and Found Co Einsteigerleitfaden",
+          "description": "Lerne die Suchschleife, Zieltypen, das Timing für Juju und die Gewohnheiten kennen, die überfüllte Szenen einfacher machen.",
+          "href": "/guide/lost-and-found-co-guide"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Lost and Found Co Komplettlösung",
+          "description": "Folge der Kampagnenstruktur, einer praktischen Raumdurchsuchungsmethode und dem dokumentierten Weg zu 100%.",
+          "href": "/guide/lost-and-found-co-walkthrough"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Lost and Found Co Verborgene Objekte",
+          "description": "Verfolge Ballons, goldene Spielzeugkapseln, versteckte Alraunen und andere leicht zu übersehende Levelziele.",
+          "href": "/collectibles/lost-and-found-co-balloon-locations"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Lost and Found Co Level-Lösungen",
+          "description": "Erfahre, welche Level die sorgfältigste Aufräumaktion verlangen und wie du Story-Fälle, Anfragen und optionale Ziele angehst.",
+          "href": "/mechanics/lost-and-found-co-levels"
+        },
+        {
+          "badge": "Neu",
+          "title": "Lost and Found Co Erfolge",
+          "description": "Arbeite alle 31 Steam-Erfolge mit Level-Abschlussrouten und Aufräumtaktiken durch.",
+          "href": "/guide/lost-and-found-co-100-completion"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Lost and Found Co Juju-Fundorte",
+          "description": "Finde versteckte Juju, erkenne ihre grauen, wackeligen Umrisse und spare ihre Hinweise für hartnäckige Ziele auf.",
+          "href": "/items/lost-and-found-co-juju-locations"
+        },
+        {
+          "badge": "Leitfaden",
+          "title": "Lost and Found Co Charaktere",
+          "description": "Triff Ducky, Mei, Kit und Zorro und erfahre, wie die Hauptbesetzung mit Plumville und der Raumdekoration verbunden ist.",
+          "href": "/mechanics/lost-and-found-co-characters"
+        },
+        {
+          "badge": "Leitfaden",
+          "title": "Lost and Found Co Nebenquests",
+          "description": "Erledige KOZ-Anfragen, Playtime at Kenta's, optionale Ziele und andere Nebeninhalte.",
+          "href": "/quests/lost-and-found-co-side-quests"
+        },
+        {
+          "badge": "Neu",
+          "title": "Lost and Found Co Switch-Veröffentlichung",
+          "description": "Verfolge das bestätigte Veröffentlichungsfenster für Nintendo Switch und Switch 2 sowie Plattformdetails.",
+          "href": "/platforms/lost-and-found-co-switch-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Lost and Found Co?",
+      "paragraphs": [
+        "Lost and Found Co ist ein gemütliches Wimmelbild-Abenteuer von Bit Egg Inc. Du spielst Ducky, eine Ente, die in einen menschlichen Praktikanten verwandelt wurde, und hilfst der verblassenden Göttin Mei, ein Fundbüro in Plumville zu führen. Jeder Fall schickt dich durch handgezeichnete, mehrschichtige Szenen, um fehlende Gegenstände zu bergen, kleine Rätsel zu lösen und die Geschichten hinter den Bewohnern der Stadt aufzudecken.",
+        "Die Kampagne umfasst 11 Story-Kapitel und mehr als 15 Level, mit Anfragen, optionalen Zielen, versteckten Juju und einem Raum, den du mit Möbeln aus Kits Laden dekorieren kannst. Updates nach dem Launch haben neue Level und Lokalisierungen hinzugefügt, während eine Veröffentlichung für Switch und Switch 2 für Anfang 2027 geplant ist."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Bit Egg Inc."
+        },
+        {
+          "label": "Plattform",
+          "value": "PC / Steam"
+        },
+        {
+          "label": "Genre",
+          "value": "Wimmelbild"
+        },
+        {
+          "label": "Veröffentlichung",
+          "value": "5. März 2026"
+        },
+        {
+          "label": "Verkaufte Exemplare",
+          "value": "100K+"
+        },
+        {
+          "label": "Kapitel",
+          "value": "11"
+        }
+      ],
+      "cta": "Alle Leitfäden entdecken"
+    },
+    "explore": {
+      "title": "Erkunde das Lost and Found Co Wiki",
+      "description": "Arbeite dich durch jedes Level von Lost and Found Co mit Komplettlösungen, Fundorten verborgener Objekte, Nebenquest-Routen, Erfolgschecklisten, Tipps zur Raumdekoration und Berichterstattung zu Updates.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Lost and Found Co Komplettlösung",
+          "description": "Folge der Story-Kampagne vom ersten Fall bis zum letzten Kapitel mit einer praktischen Suchmethode, Empfehlungen zur Level-Reihenfolge und Aufräumrouten für hartnäckige Ziele.",
+          "href": "/guide/lost-and-found-co-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Klicke vor der Raumsuche auf ein HUD-Ziel, um einen kostenlosen Hinweis zu erhalten."
+            },
+            {
+              "label": "2",
+              "detail": "Scanne zuerst den Horizont und hängende Requisiten, dann Regale und Theken, dann das Durcheinander auf dem Boden."
+            },
+            {
+              "label": "3",
+              "detail": "Öffne Schilder, Schubladen, Kisten, Tabletts und Requisitenränder, bevor du die gesamte Szene erneut prüfst."
+            },
+            {
+              "label": "4",
+              "detail": "Zoome auf winzige Ziele und schwenke über überfüllte Bereiche, statt blind zu klicken."
+            },
+            {
+              "label": "5",
+              "detail": "Spare Juju-Hinweise für das letzte hartnäckige Objekt oder die letzte unerforschte Zone auf."
+            },
+            {
+              "label": "6",
+              "detail": "Spiele Level für optionale Ziele und Erfolge erneut, solange das Layout noch frisch ist."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Lost and Found Co Fundorte verborgener Objekte",
+          "description": "Verfolge leicht zu übersehende Ziele in ganz Plumville, von Event-Ballons und goldenen Spielzeugkapseln bis zu versteckten Alraunen und optionalen Juju.",
+          "href": "/collectibles/lost-and-found-co-balloon-locations",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Ballons",
+              "detail": "Finde alle 8 Ballons in What an Unlucky Day, einschließlich der Donut- und Hühner-Schilder."
+            },
+            {
+              "label": "Spielzeugkapseln",
+              "detail": "Goldene Spielzeugkapseln sind ein optionales Ziel in Hop Street."
+            },
+            {
+              "label": "Alraune",
+              "detail": "Prüfe die Ackerflächen links vom Haus in Runaway Foxes."
+            },
+            {
+              "label": "Juju",
+              "detail": "Graue, wackelige Objekte verbergen zusätzliche Hinweise in den Leveln von Plumville."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Lost and Found Co Einsteigerleitfaden",
+          "description": "Lerne die grundlegende Wimmelbild-Suchschleife, Zieltypen, Suchgewohnheiten und frühe Fortschrittstipps kennen, die die ersten Kapitel deutlich reibungsloser machen.",
+          "href": "/guide/lost-and-found-co-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Erledige zuerst HUD-Ziele, denn sie sind der erforderliche Weg und bieten kostenlose Hinweise."
+            },
+            {
+              "label": "2",
+              "detail": "Durchsuche jeweils eine Zone, statt zufällig in der gesamten Szene herumzuklicken."
+            },
+            {
+              "label": "3",
+              "detail": "Behandle einen Obscured-Hinweis als Aufforderung, die nächstgelegene interaktive Requisite zu öffnen."
+            },
+            {
+              "label": "4",
+              "detail": "Folge Quest-Ketten, bis sich die Zielliste nicht mehr ändert."
+            },
+            {
+              "label": "5",
+              "detail": "Sammle Juju früh, aber setze ihre Hinweise spät ein."
+            },
+            {
+              "label": "6",
+              "detail": "Kehre nach der Story zurück, um optionale Ziele und Level-Erfolge zu erledigen."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Lost and Found Co Level-Lösungen",
+          "description": "Vergleiche den Aufräumbedarf der Level und nutze gezielte Routen für dichte Karten, Anfrage-Level und spätere Update-Inhalte.",
+          "href": "/mechanics/lost-and-found-co-levels",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Hop Street, Jolly Jug Isle und Nekoten Cafe sind die dichtesten Aufräumdurchläufe."
+            },
+            {
+              "label": "A",
+              "detail": "Breezy Hill Heights, Leo Family's Home und Kenta's House sind geschäftige Multi-Zonen-Karten."
+            },
+            {
+              "label": "B",
+              "detail": "Love After Life und Fangtastic Feast fügen mehrschichtige Räume und neuere Ziellisten hinzu."
+            },
+            {
+              "label": "C",
+              "detail": "The First Request und Morning Madness sind frühe Level zum Erlernen von Suchrouten."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Lost and Found Co Nebenquests",
+          "description": "Behandle optionale Anfrage-Level und KOZ-Quests, einschließlich ihrer Ziele, versteckten Zielrouten, Abschlussanforderungen und Belohnungen.",
+          "href": "/quests/lost-and-found-co-side-quests",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Anfragen",
+              "detail": "Nebenjobs verwenden Orte mit eigenen Ziellisten erneut."
+            },
+            {
+              "label": "KOZ",
+              "detail": "Waiting for a Bite und Apartment Apocalypse sind die längsten optionalen Suchen."
+            },
+            {
+              "label": "Kenta",
+              "detail": "Playtime at Kenta's ist die einfachere Quest im KOZ-Stil."
+            },
+            {
+              "label": "Optional",
+              "detail": "Prüfe die To-do-UI nach Quest-Freischaltungen und erledige Bonusziele in einem erneuten Durchlauf."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Lost and Found Co Erfolgsleitfaden",
+          "description": "Verfolge die aktuelle Steam-Erfolgsliste und Freischaltbedingungen für Story-Level, Anfragen, optionale Ziele und vollständigen Abschluss.",
+          "href": "/guide/lost-and-found-co-achievement-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Unlucky Ducky",
+              "detail": "Schließe das Story-Level Unlucky Ducky für den gleichnamigen Erfolg ab."
+            },
+            {
+              "label": "The Sus Fox",
+              "detail": "Wird durch Abschluss des Levels The Suspicious Fox verdient."
+            },
+            {
+              "label": "Waiting for a Bite",
+              "detail": "Schließe das Anfrage-Level und seine vollständige optionale Zielliste ab."
+            },
+            {
+              "label": "Tea Time Troubles",
+              "detail": "Schließe das Anfrage-Level Tea Time Troubles ab."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Lost and Found Co Raumgestaltung",
+          "description": "Erkunde Ducky's Room mit Möbeln und Dekorationsgegenständen aus Kits Laden, einschließlich Beschaffung, Platzierung, Größenänderung und Schichtung von Dekoration.",
+          "href": "/mechanics/lost-and-found-co-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kit Shop",
+              "detail": "Kaufe Möbel und Dekorationsgegenstände im Kit Shop im Spiel."
+            },
+            {
+              "label": "Dekoration",
+              "detail": "Verschiebe, skaliere und schichte Gegenstände, um verschiedene Raumdesigns zu gestalten."
+            },
+            {
+              "label": "Büro",
+              "detail": "Meis Schrein wird mit dem Wachstum des Geschäfts zum Büro-Hub."
+            },
+            {
+              "label": "Halloween",
+              "detail": "Patch 1.2.1 fügte neue Gegenstände hinzu, darunter Dekoration im Halloween-Stil."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Lost and Found Co Updates und neue Inhalte",
+          "description": "Verfolge offizielle Updates, neu hinzugefügte Level, Lokalisierungsänderungen, Gameplay-Korrekturen und die angekündigten Versionen für Nintendo Switch und Switch 2.",
+          "href": "/platforms/lost-and-found-co-switch-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Herbst",
+              "detail": "Das Update vom 1. Oktober 2026 fügte Love After Life und Fangtastic Feast hinzu."
+            },
+            {
+              "label": "Switch",
+              "detail": "Nintendo Switch- und Switch 2-Versionen sind für Anfang 2027 geplant."
+            },
+            {
+              "label": "Koreanisch",
+              "detail": "Das Oktober-Update fügte eine koreanische Lokalisierung und eine Dialogverlaufsfunktion hinzu."
+            },
+            {
+              "label": "Patch",
+              "detail": "Version 1.2.1 behob einen Soft-Lock in Love After Life und einen Anzeigefehler bei Zielen in Fangtastic Feast."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen zu Lost and Found Co",
+      "description": "Direkte Antworten zu Story-Struktur, Juju-Hinweisen, Spielzeit, Plattformen und Erfolgen von Lost and Found Co.",
+      "items": [
+        {
+          "question": "Was ist Lost and Found Co?",
+          "answer": "Lost and Found Co ist ein gemütliches Wimmelbild-Abenteuer von Bit Egg Inc. Du spielst Ducky, eine Ente, die in einen menschlichen Praktikanten verwandelt wurde, und hilfst der Göttin Mei, verlorene Gegenstände für die Bewohner von Plumville zurückzuholen."
+        },
+        {
+          "question": "Wie viele Kapitel hat Lost and Found Co?",
+          "answer": "Lost and Found Co hat 11 Story-Kapitel und mehr als 15 Wimmelbild-Level. Anfragen, optionale Ziele und Level nach dem Launch erweitern den Inhalt über die Hauptkampagne hinaus."
+        },
+        {
+          "question": "Wie lange dauert es, Lost and Found Co durchzuspielen?",
+          "answer": "Lost and Found Co dauert etwa 8,5 Stunden für die Hauptstory, rund 13 Stunden für die Hauptstory plus Nebenziele und etwa 18 Stunden für einen Komplettisten-Durchlauf."
+        },
+        {
+          "question": "Wie funktionieren Juju in Lost and Found Co?",
+          "answer": "Juju in Lost and Found Co sind versteckte Helfer, die als gewöhnliche Objekte mit grauen, wackeligen Umrissen getarnt sind. Fängt man einen, erhält man zusätzliche Hinweise, die man am besten für das letzte hartnäckige Ziel in einem Level aufspart."
+        },
+        {
+          "question": "Wie viele Erfolge hat Lost and Found Co?",
+          "answer": "Lost and Found Co hat 31 Steam-Erfolge. Die meisten sind an den Abschluss von Story-Leveln, Anfrage-Leveln, optionalen Zielen und vollständigen Level-Aufräumaktionen gebunden."
+        },
+        {
+          "question": "Auf welchen Plattformen ist Lost and Found Co verfügbar?",
+          "answer": "Lost and Found Co ist auf PC über Steam verfügbar und Steam Deck Verified. Nintendo Switch- und Switch 2-Versionen sind für Anfang 2027 geplant."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, alles in Plumville zu finden?",
+      "description": "Folge Schritt-für-Schritt-Komplettlösungen, Fundorten verborgener Objekte, Rätsellösungen und Leitfäden zu Sammelobjekten für Lost and Found Co.",
+      "primary": "Komplettlösungen durchsuchen",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Lost and Found Co Leitfäden",
+    "overviewDescription": "Beginne mit Einsteigerleitfäden, Story-Komplettlösungen, Erfolgshilfe und praktischen Tipps für jedes Wimmelbild-Level von Lost and Found Co."
+  },
+  "quests": {
+    "overviewTitle": "Lost and Found Co Quest-Komplettlösungen",
+    "overviewDescription": "Folge den Quest-Komplettlösungen für Lost and Found Co zu Story-Kapiteln, Nebenaufträgen, optionalen Zielen und jeder kniffligen Suche nach verborgenen Objekten."
+  },
+  "items": {
+    "overviewTitle": "Lost and Found Co Gegenstandsstandorte",
+    "overviewDescription": "Finde Gegenstandsstandorte in Lost and Found Co für Juju, Socken, Gutscheine, Gerichte, Geldbörsen und andere Quest-Objekte in ganz Plumville."
+  },
+  "collectibles": {
+    "overviewTitle": "Lost and Found Co Sammelobjekte",
+    "overviewDescription": "Spüre Sammelobjekte in Lost and Found Co auf, darunter Ballons, goldene Spielzeugkapseln, seltene Käfer, verlorene Küken und verborgene geheime Räume."
+  },
+  "mechanics": {
+    "overviewTitle": "Lost and Found Co Mechaniken",
+    "overviewDescription": "Verstehe die Charaktere von Lost and Found Co, die Level-Struktur, optionale Ziele, geheime Räume und die Systeme hinter jeder Suche."
+  },
+  "platforms": {
+    "overviewTitle": "Lost and Found Co Plattformen",
+    "overviewDescription": "Prüfe die Verfügbarkeit von Lost and Found Co auf Steam, Steam Deck, Android, Nintendo Switch und Switch 2 mit Veröffentlichungsdetails und Einrichtungshinweisen."
+  },
+  "community": {
+    "overviewTitle": "Lost and Found Co Community",
+    "overviewDescription": "Durchstöbere Community-Ressourcen, Spielerbewertungen, Reddit-Diskussionen und geteilte Entdeckungen anderer Schatzsucher zu Lost and Found Co."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "startHere": "Hier starten",
+    "beginnerGuide": "Einsteigerleitfaden",
+    "collectiblesGuide": "Leitfaden zu Sammelobjekten",
+    "browseGuides": "Alle Leitfäden durchsuchen",
+    "updated": "Aktualisiert",
+    "playOnRoblox": "Auf Steam spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Leitfäden",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Leitfäden verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Lost and Found Co Wiki",
+    "about": "Das Lost and Found Co Wiki ist ein unabhängiger, von Fans erstellter Leitfaden-Hub mit Komplettlösungen, verborgenen Objekten, Rätseln, Sammelobjekten, Charakteren und wichtigen Tipps zum Erkunden von Plumville.",
+    "quickLinks": "Schnellzugriff",
+    "guides": "Leitfäden",
+    "legal": "Rechtliches",
+    "copyright": "2026 Lost and Found Co Wiki. Nicht mit Bit Egg Inc. oder seinen Partnern verbunden.",
+    "description": "Gemütliches Wimmelbild-Abenteuer von Bit Egg Inc. Erkunde Plumville, löse Rätsel und finde jedes Sammelobjekt.",
+    "playGame": "Auf Steam spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Offizielle Website",
+    "officialX": "Offizielles X",
+    "officialInstagram": "Offizielles Instagram",
+    "officialFacebook": "Offizielles Facebook",
+    "officialTikTok": "Offizielles TikTok",
+    "officialBluesky": "Offizielles Bluesky",
+    "beginnerGuide": "Einsteigerleitfaden",
+    "questGuides": "Quest-Komplettlösungen",
+    "itemGuides": "Gegenstandsstandorte",
+    "collectibleGuides": "Sammelobjekte",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

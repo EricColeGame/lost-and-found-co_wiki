@@ -1,1 +1,501 @@
-{}
+{
+  "site": {
+    "name": "Lost and Found Co Wiki",
+    "shortName": "Lost and Found Co",
+    "tagline": "隠しオブジェクト攻略、パズル解答＆収集品",
+    "description": "Lost and Found CoでPlumvilleを探索しましょう。攻略、隠しオブジェクトの場所、パズル解答、収集品、キャラクター、クエストガイドを掲載。",
+    "legalNotice": "非公式のファンウィキです。Lost and Found Coおよび関連する商標は、それぞれの所有者に帰属します。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "quests": "クエスト",
+    "items": "アイテム",
+    "collectibles": "収集品",
+    "mechanics": "メカニクス",
+    "platforms": "プラットフォーム",
+    "community": "コミュニティ",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替える"
+  },
+  "home": {
+    "meta": {
+      "title": "Lost and Found Co Wiki：攻略、隠しオブジェクト＆ヒント",
+      "description": "Lost and Found Coの完全ガイド。ステージ攻略、隠しオブジェクトの場所、Jujuのヒント、サイドクエスト、実績、部屋のカスタマイズの助けを掲載。"
+    },
+    "hero": {
+      "eyebrow": "ほのぼのとした隠しオブジェクトアドベンチャー",
+      "title": "Lost and Found Co Wiki",
+      "description": "Lost and Found Coの不思議なPlumvilleの世界を探索しましょう。DuckyとMeiとともに隠しオブジェクトを見つけ、巧妙なパズルを解き、キャラクタークエストを完了し、秘密を明らかにします。攻略、アイテムの場所、パズル解答、収集品ガイドを見つけましょう。",
+      "stats": [
+        "販売本数 100K+",
+        "同時接続数ピーク 1,748",
+        "好評率 97%",
+        "2026年3月5日リリース"
+      ],
+      "primaryCta": "攻略ガイド",
+      "secondaryCta": "収集品＆マップ",
+      "tertiaryCta": "Steamでプレイ",
+      "videoLabel": "公式ゲームプレイトレーラー"
+    },
+    "updates": {
+      "title": "Lost and Found Coの最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "あなたのLost and Found Coの旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "基本の探索ループ、目標の種類、混み合ったPlumvilleのシーンを管理しやすくする習慣を学びましょう。"
+        },
+        {
+          "number": "2",
+          "title": "隠しオブジェクト探索",
+          "description": "層ごとに走査し、インタラクティブな小道具を開き、ズームとパンを使って誰もが見逃すアイテムを見つけましょう。"
+        },
+        {
+          "number": "3",
+          "title": "Juju＆ヒント",
+          "description": "隠れたJujuを早めに捕まえ、そのヒントは最初のイライラする部屋ではなく、最後の手ごわいオブジェクトに使いましょう。"
+        },
+        {
+          "number": "4",
+          "title": "100%コンプリート",
+          "description": "トロフィーのないステージを周回せずに、ストーリークリア、任意の回収、全31個のSteam実績を計画しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "人気のLost and Found Coガイド",
+      "quickLinks": [
+        "ストーリー攻略",
+        "隠しオブジェクト",
+        "Jujuの場所",
+        "31個の実績"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "Lost and Found Co 初心者ガイド",
+          "description": "探索ループ、目標の種類、Jujuのタイミング、混み合ったシーンを楽にする習慣を学びましょう。",
+          "href": "/guide/lost-and-found-co-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "Lost and Found Co 攻略",
+          "description": "キャンペーンの構成、実践的な部屋の捜索方法、100%への記録されたルートをたどりましょう。",
+          "href": "/guide/lost-and-found-co-walkthrough"
+        },
+        {
+          "badge": "更新済み",
+          "title": "Lost and Found Co 隠しオブジェクト",
+          "description": "風船、金色のおもちゃカプセル、隠れたマンドレイク、その他見逃しやすいステージターゲットを追跡しましょう。",
+          "href": "/collectibles/lost-and-found-co-balloon-locations"
+        },
+        {
+          "badge": "人気",
+          "title": "Lost and Found Co レベル攻略",
+          "description": "どのステージが最も丁寧な回収を必要とするか、ストーリー案件、リクエスト、任意目標をどう扱うかを確認しましょう。",
+          "href": "/mechanics/lost-and-found-co-levels"
+        },
+        {
+          "badge": "新着",
+          "title": "Lost and Found Co 実績",
+          "description": "ステージ完了ルートと回収のコツで、全31個のSteam実績を進めましょう。",
+          "href": "/guide/lost-and-found-co-100-completion"
+        },
+        {
+          "badge": "人気",
+          "title": "Lost and Found Co Jujuの場所",
+          "description": "隠れたJujuを見つけ、灰色でぐにゃぐにゃした輪郭を見分け、そのヒントを手ごわい目標のために取っておきましょう。",
+          "href": "/items/lost-and-found-co-juju-locations"
+        },
+        {
+          "badge": "ガイド",
+          "title": "Lost and Found Co キャラクター",
+          "description": "Ducky、Mei、Kit、Zorroに会い、主要キャラクターがPlumvilleや部屋の装飾とどうつながるかを学びましょう。",
+          "href": "/mechanics/lost-and-found-co-characters"
+        },
+        {
+          "badge": "ガイド",
+          "title": "Lost and Found Co サイドクエスト",
+          "description": "KOZリクエスト、Playtime at Kenta's、任意目標、その他のサイドコンテンツをクリアしましょう。",
+          "href": "/quests/lost-and-found-co-side-quests"
+        },
+        {
+          "badge": "新着",
+          "title": "Lost and Found Co Switchリリース",
+          "description": "確定したNintendo SwitchおよびSwitch 2のリリース時期とプラットフォームの詳細を追跡しましょう。",
+          "href": "/platforms/lost-and-found-co-switch-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Lost and Found Coとは？",
+      "paragraphs": [
+        "Lost and Found CoはBit Egg Inc.によるほのぼのとした隠しオブジェクトアドベンチャーです。あなたは人間のインターンに変身したアヒルのDuckyとなり、衰退しつつある女神MeiがPlumvilleで落とし物ビジネスを営むのを手伝います。各案件では手描きの階層化されたシーンを通り、失われたオブジェクトを取り戻し、小さなパズルを解き、町の住人たちの物語を明らかにします。",
+        "キャンペーンは11のストーリーチャプターと15以上のステージにわたり、リクエスト、任意目標、隠れたJuju、Kit Shopの家具で飾れる部屋があります。ローンチ後のアップデートでは新しいステージと言語対応が追加され、SwitchおよびSwitch 2版は2027年初頭にリリース予定です。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Bit Egg Inc."
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "PC / Steam"
+        },
+        {
+          "label": "ジャンル",
+          "value": "隠しオブジェクト"
+        },
+        {
+          "label": "リリース",
+          "value": "2026年3月5日"
+        },
+        {
+          "label": "販売本数",
+          "value": "100K+"
+        },
+        {
+          "label": "チャプター",
+          "value": "11"
+        }
+      ],
+      "cta": "すべてのガイドを探索"
+    },
+    "explore": {
+      "title": "Lost and Found Co Wikiを探索",
+      "description": "Lost and Found Coのすべてのステージを、攻略、隠しオブジェクトの場所、サイドクエストルート、実績チェックリスト、部屋の装飾のヒント、アップデート情報とともに進めましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Lost and Found Co 攻略",
+          "description": "最初の案件から最終章まで、実践的な探索方法、ステージ順のアドバイス、手ごわい目標の回収ルートとともにストーリーキャンペーンを進めましょう。",
+          "href": "/guide/lost-and-found-co-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "部屋を探索する前に、HUD目標をクリックして無料ヒントを得ましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "まずスカイラインと吊り下げられた小道具、次に棚とカウンター、最後に床の散らかりを走査しましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "シーン全体を再確認する前に、看板、引き出し、箱、トレイ、小道具の縁を開けましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "当てずっぽうにクリックするのではなく、小さなターゲットをズームし、密集した領域をパンしましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "Jujuのヒントは、最後の手ごわいオブジェクトまたは最後の未探索ゾーンのために取っておきましょう。"
+            },
+            {
+              "label": "6",
+              "detail": "レイアウトを覚えているうちに、任意目標と実績のためにステージを再プレイしましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Lost and Found Co 隠しオブジェクトの場所",
+          "description": "イベントの風船や金色のおもちゃカプセルから、隠れたマンドレイクや任意のJujuまで、Plumville全体で見逃しやすいターゲットを追跡しましょう。",
+          "href": "/collectibles/lost-and-found-co-balloon-locations",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "風船",
+              "detail": "What an Unlucky Dayで、ドーナツとチキンの看板を含む全8個の風船を見つけましょう。"
+            },
+            {
+              "label": "おもちゃカプセル",
+              "detail": "金色のおもちゃカプセルはHop Streetの任意目標です。"
+            },
+            {
+              "label": "マンドレイク",
+              "detail": "Runaway Foxesで家の左にある農場の植え込みを確認しましょう。"
+            },
+            {
+              "label": "Juju",
+              "detail": "灰色でぐにゃぐにゃしたオブジェクトは、Plumvilleのステージ全体に追加ヒントを隠しています。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Lost and Found Co 初心者ガイド",
+          "description": "基本の隠しオブジェクトループ、目標の種類、探索の習慣、最初のチャプターをずっとスムーズにする序盤進行のヒントを学びましょう。",
+          "href": "/guide/lost-and-found-co-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "HUD目標は必須ルートであり無料ヒントを提供するので、まずクリアしましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "シーン全体をランダムにクリックするのではなく、一度に1つのゾーンを探索しましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "「Obscured」の手がかりは、最も近いインタラクティブな小道具を開ける合図として扱いましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "ターゲットリストが変化しなくなるまでクエストチェーンを進めましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "Jujuは早めに集め、そのヒントは遅めに使いましょう。"
+            },
+            {
+              "label": "6",
+              "detail": "ストーリー後に戻って、任意目標とステージ実績を回収しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Lost and Found Co レベル攻略",
+          "description": "ステージの回収負荷を比較し、密度の高いマップ、リクエストステージ、後のアップデートコンテンツには的を絞ったルートを使いましょう。",
+          "href": "/mechanics/lost-and-found-co-levels",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Hop Street、Jolly Jug Isle、Nekoten Cafeは最も密度の高い回収ルートです。"
+            },
+            {
+              "label": "A",
+              "detail": "Breezy Hill Heights、Leo Family's Home、Kenta's Houseは忙しい複数ゾーンのマップです。"
+            },
+            {
+              "label": "B",
+              "detail": "Love After LifeとFangtastic Feastは階層化された部屋と新しい目標リストを追加します。"
+            },
+            {
+              "label": "C",
+              "detail": "The First RequestとMorning Madnessは探索ルートを学ぶ序盤のステージです。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Lost and Found Co サイドクエスト",
+          "description": "任意のリクエストレベルとKOZクエストを、その目標、隠れたターゲットルート、完了条件、報酬を含めて扱います。",
+          "href": "/quests/lost-and-found-co-side-quests",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "リクエスト",
+              "detail": "サイドジョブは独自のターゲットリストで場所を再利用します。"
+            },
+            {
+              "label": "KOZ",
+              "detail": "Waiting for a BiteとApartment Apocalypseは最も長い任意の探索です。"
+            },
+            {
+              "label": "Kenta",
+              "detail": "Playtime at Kenta'sはより簡単なKOZスタイルのクエストです。"
+            },
+            {
+              "label": "任意",
+              "detail": "クエスト解放後にTo-do UIを確認し、再プレイでボーナス目標をクリアしましょう。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Lost and Found Co 実績ガイド",
+          "description": "現在のSteam実績リストと、ストーリーステージ、リクエスト、任意目標、完全コンプリートの解除条件を追跡しましょう。",
+          "href": "/guide/lost-and-found-co-achievement-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Unlucky Ducky",
+              "detail": "Unlucky Duckyストーリーステージを完了して、その名前の実績を獲得しましょう。"
+            },
+            {
+              "label": "The Sus Fox",
+              "detail": "The Suspicious Foxステージを完了すると獲得できます。"
+            },
+            {
+              "label": "Waiting for a Bite",
+              "detail": "リクエストステージとその完全な任意ターゲットリストをクリアしましょう。"
+            },
+            {
+              "label": "Tea Time Troubles",
+              "detail": "Tea Time Troublesリクエストステージを完了しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Lost and Found Co 部屋のカスタマイズ",
+          "description": "Kit Shopの家具や装飾アイテムでDucky's Roomを探索しましょう。入手方法、配置、サイズ変更、装飾の重ね方も含みます。",
+          "href": "/mechanics/lost-and-found-co-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kit Shop",
+              "detail": "ゲーム内のKit Shopで家具や装飾アイテムを購入しましょう。"
+            },
+            {
+              "label": "装飾",
+              "detail": "アイテムを移動、サイズ変更、重ねて、さまざまな部屋のデザインを作りましょう。"
+            },
+            {
+              "label": "オフィス",
+              "detail": "ビジネスが成長するにつれて、Meiの祠がオフィスの拠点になります。"
+            },
+            {
+              "label": "ハロウィン",
+              "detail": "パッチ1.2.1では、ハロウィンをテーマにした装飾を含む新しいアイテムが追加されました。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Lost and Found Co アップデートと新コンテンツ",
+          "description": "公式アップデート、新しく追加されたステージ、言語対応の変更、ゲームプレイの修正、発表済みのNintendo SwitchおよびSwitch 2版を追跡しましょう。",
+          "href": "/platforms/lost-and-found-co-switch-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "秋",
+              "detail": "2026年10月1日のアップデートでLove After LifeとFangtastic Feastが追加されました。"
+            },
+            {
+              "label": "Switch",
+              "detail": "Nintendo SwitchおよびSwitch 2版は2027年初頭に予定されています。"
+            },
+            {
+              "label": "韓国語",
+              "detail": "10月のアップデートで韓国語対応と会話履歴機能が追加されました。"
+            },
+            {
+              "label": "パッチ",
+              "detail": "バージョン1.2.1では、Love After Lifeの進行不能バグとFangtastic Feastの目標表示バグが修正されました。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Lost and Found Co FAQ",
+      "description": "Lost and Found Coのストーリー構成、Jujuのヒント、プレイ時間、プラットフォーム、実績について明確に答えます。",
+      "items": [
+        {
+          "question": "Lost and Found Coとは？",
+          "answer": "Lost and Found CoはBit Egg Inc.によるほのぼのとした隠しオブジェクトアドベンチャーです。あなたは人間のインターンに変身したアヒルのDuckyとなり、女神MeiがPlumvilleの住人のために失くし物を取り戻すのを手伝います。"
+        },
+        {
+          "question": "Lost and Found Coにはいくつのチャプターがありますか？",
+          "answer": "Lost and Found Coには11のストーリーチャプターと15以上の隠しオブジェクトステージがあります。リクエスト、任意目標、ローンチ後のステージにより、メインキャンペーン以外のコンテンツが追加されます。"
+        },
+        {
+          "question": "Lost and Found Coをクリアするのにどれくらいかかりますか？",
+          "answer": "Lost and Found Coはメインストーリーで約8.5時間、メインストーリーとサイド目標で約13時間、コンプリートを目指すプレイで約18時間かかります。"
+        },
+        {
+          "question": "Lost and Found CoでJujuはどのように機能しますか？",
+          "answer": "Lost and Found CoのJujuは、灰色でぐにゃぐにゃした輪郭を持つ普通のオブジェクトに偽装した隠れた助っ人です。捕まえると追加ヒントが得られ、ステージ内の最後の手ごわいターゲットのために取っておくのが最適です。"
+        },
+        {
+          "question": "Lost and Found Coにはいくつの実績がありますか？",
+          "answer": "Lost and Found Coには31個のSteam実績があります。ほとんどはストーリーステージ、リクエストステージ、任意目標、ステージの完全回収に関連しています。"
+        },
+        {
+          "question": "Lost and Found Coはどのプラットフォームで利用できますか？",
+          "answer": "Lost and Found CoはSteamを通じてPCで利用でき、Steam Deck Verifiedです。Nintendo SwitchおよびSwitch 2版は2027年初頭に予定されています。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Plumvilleですべてを見つける準備はできましたか？",
+      "description": "Lost and Found Coの段階的な攻略、隠しオブジェクトの場所、パズル解答、収集品ガイドをたどりましょう。",
+      "primary": "攻略を見る",
+      "secondary": "Steamでプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Lost and Found Co ガイド",
+    "overviewDescription": "Lost and Found Coの初心者ガイド、ストーリー攻略、実績の助け、すべての隠しオブジェクトステージに役立つ実践的なヒントから始めましょう。"
+  },
+  "quests": {
+    "overviewTitle": "Lost and Found Co クエスト攻略",
+    "overviewDescription": "ストーリーチャプター、サイドリクエスト、任意目標、すべての厄介な隠しオブジェクト探索について、Lost and Found Coのクエスト攻略をたどりましょう。"
+  },
+  "items": {
+    "overviewTitle": "Lost and Found Co アイテムの場所",
+    "overviewDescription": "Plumville全体で、Juju、靴下、クーポン、食器、財布、その他のクエストオブジェクトのLost and Found Coアイテムの場所を見つけましょう。"
+  },
+  "collectibles": {
+    "overviewTitle": "Lost and Found Co 収集品",
+    "overviewDescription": "風船、金色のおもちゃカプセル、珍しい甲虫、迷子のひよこ、隠された秘密の部屋など、Lost and Found Coの収集品を追跡しましょう。"
+  },
+  "mechanics": {
+    "overviewTitle": "Lost and Found Co メカニクス",
+    "overviewDescription": "Lost and Found Coのキャラクター、レベル構成、任意目標、秘密の部屋、各探索の背後にあるシステムを理解しましょう。"
+  },
+  "platforms": {
+    "overviewTitle": "Lost and Found Co プラットフォーム",
+    "overviewDescription": "Steam、Steam Deck、Android、Nintendo Switch、Switch 2でのLost and Found Coの利用状況を、リリース詳細とセットアップの注意点とともに確認しましょう。"
+  },
+  "community": {
+    "overviewTitle": "Lost and Found Co コミュニティ",
+    "overviewDescription": "Lost and Found Coのコミュニティリソース、プレイヤーレビュー、Redditの議論、仲間のトレジャーハンターによる共有の発見を見てみましょう。"
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "startHere": "ここから始める",
+    "beginnerGuide": "初心者ガイド",
+    "collectiblesGuide": "収集品ガイド",
+    "browseGuides": "すべてのガイドを見る",
+    "updated": "更新済み",
+    "playOnRoblox": "Steamでプレイ",
+    "inThisSection": "このセクション内",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "利用できるガイドはまだありません。近日中に再度確認してください！"
+  },
+  "footer": {
+    "aboutTitle": "Lost and Found Co Wiki",
+    "about": "Lost and Found Co Wikiは、Plumvilleを探索するための攻略、隠しオブジェクト、パズル、収集品、キャラクター、必須のヒントを扱う、ファンが制作した独立系ガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Lost and Found Co Wiki。Bit Egg Inc.およびそのパートナーとは提携していません。",
+    "description": "Bit Egg Inc.によるほのぼのとした隠しオブジェクトアドベンチャー。Plumvilleを探索し、パズルを解き、すべての収集品を見つけましょう。",
+    "playGame": "Steamでプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "公式ウェブサイト",
+    "officialX": "公式X",
+    "officialInstagram": "公式Instagram",
+    "officialFacebook": "公式Facebook",
+    "officialTikTok": "公式TikTok",
+    "officialBluesky": "公式Bluesky",
+    "beginnerGuide": "初心者ガイド",
+    "questGuides": "クエスト攻略",
+    "itemGuides": "アイテムの場所",
+    "collectibleGuides": "収集品",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

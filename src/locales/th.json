@@ -1,1 +1,501 @@
-{}
+{
+  "site": {
+    "name": "วิกิ Lost and Found Co",
+    "shortName": "Lost and Found Co",
+    "tagline": "ไกด์ค้นหาวัตถุซ่อนหา เฉลยปริศนา และของสะสม",
+    "description": "สำรวจ Plumville ใน Lost and Found Co พร้อมไกด์เดินเกม ตำแหน่งวัตถุซ่อนหา เฉลยปริศนา ของสะสม ตัวละคร และคู่มือเควสต์",
+    "legalNotice": "วิกิแฟนเมดที่ไม่เป็นทางการ Lost and Found Co และเครื่องหมายที่เกี่ยวข้องเป็นของเจ้าของแต่ละราย"
+  },
+  "nav": {
+    "guide": "ไกด์",
+    "quests": "เควสต์",
+    "items": "ไอเทม",
+    "collectibles": "ของสะสม",
+    "mechanics": "กลไกเกม",
+    "platforms": "แพลตฟอร์ม",
+    "community": "คอมมูนิตี้",
+    "menu": "เมนู",
+    "toggleTheme": "สลับธีม"
+  },
+  "home": {
+    "meta": {
+      "title": "วิกิ Lost and Found Co: ไกด์เดินเกม วัตถุซ่อนหา และเคล็ดลับ",
+      "description": "คู่มือ Lost and Found Co ฉบับสมบูรณ์พร้อมไกด์แต่ละด่าน ตำแหน่งวัตถุซ่อนหา เคล็ดลับ Juju เควสต์เสริม ความสำเร็จ และช่วยปรับแต่งห้อง"
+    },
+    "hero": {
+      "eyebrow": "การผจญภัยค้นหาวัตถุสุดอบอุ่น",
+      "title": "วิกิ Lost and Found Co",
+      "description": "สำรวจโลกแฟนตาซีแปลกตาของ Plumville ใน Lost and Found Co ค้นพบวัตถุซ่อนหา แก้ปริศนาอันชาญฉลาด ทำเควสต์ตัวละครให้ครบ และเปิดเผยความลับไปกับ Ducky และ Mei ค้นหาไกด์เดินเกม ตำแหน่งไอเทม เฉลยปริศนา และคู่มือของสะสม",
+      "stats": [
+        "ขายได้ 100K+ ชุด",
+        "CCU สูงสุด 1,748",
+        "รีวิวเชิงบวก 97%",
+        "วางจำหน่าย 5 มี.ค. 2026"
+      ],
+      "primaryCta": "ไกด์เดินเกม",
+      "secondaryCta": "ของสะสมและแผนที่",
+      "tertiaryCta": "เล่นบน Steam",
+      "videoLabel": "ตัวอย่างเกมเพลย์อย่างเป็นทางการ"
+    },
+    "updates": {
+      "title": "อัปเดตล่าสุดของ Lost and Found Co",
+      "browse": "เรียกดูไกด์ทั้งหมด",
+      "viewAll": "ดูทั้งหมด"
+    },
+    "start": {
+      "eyebrow": "เริ่มที่นี่",
+      "title": "เส้นทาง Lost and Found Co ของคุณ",
+      "cards": [
+        {
+          "number": "1",
+          "title": "ไกด์สำหรับผู้เริ่มต้น",
+          "description": "เรียนรู้ลูปการค้นหาหลัก ประเภทเป้าหมาย และนิสัยที่ช่วยให้ฉาก Plumville ที่แน่นขนัดจัดการได้ง่ายขึ้น"
+        },
+        {
+          "number": "2",
+          "title": "การค้นหาวัตถุซ่อนหา",
+          "description": "สแกนเป็นชั้น เปิดพร็อพที่โต้ตอบได้ และใช้ซูมกับแพนเพื่อเห็นไอเทมที่ทุกคนมองข้าม"
+        },
+        {
+          "number": "3",
+          "title": "Juju และคำใบ้",
+          "description": "จับ Juju ที่ซ่อนอยู่ตั้งแต่เนิ่น ๆ แล้วใช้คำใบ้กับวัตถุชิ้นสุดท้ายที่ดื้อรั้น แทนที่จะใช้ในห้องแรกที่น่าหงุดหงิด"
+        },
+        {
+          "number": "4",
+          "title": "ความสำเร็จ 100%",
+          "description": "วางแผนเคลียร์เนื้อเรื่อง การเก็บกวาดเสริม และความสำเร็จ Steam ทั้ง 31 รายการ โดยไม่ต้องฟาร์มด่านที่ไม่มีถ้วยรางวัล"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "หน้าที่ได้รับความนิยม",
+      "title": "ไกด์ Lost and Found Co ยอดนิยม",
+      "quickLinks": [
+        "ไกด์เนื้อเรื่อง",
+        "วัตถุซ่อนหา",
+        "ตำแหน่ง Juju",
+        "31 ความสำเร็จ"
+      ],
+      "cards": [
+        {
+          "badge": "ผู้เริ่มต้น",
+          "title": "ไกด์ Lost and Found Co สำหรับผู้เริ่มต้น",
+          "description": "เรียนรู้ลูปการค้นหา ประเภทเป้าหมาย จังหวะการใช้ Juju และนิสัยที่ทำให้ฉากแน่นขนัดง่ายขึ้น",
+          "href": "/guide/lost-and-found-co-guide"
+        },
+        {
+          "badge": "ยอดนิยม",
+          "title": "ไกด์เดินเกม Lost and Found Co",
+          "description": "ทำตามโครงสร้างแคมเปญ วิธีกวาดห้องแบบปฏิบัติได้จริง และเส้นทางที่มีบันทึกไว้สู่ 100%",
+          "href": "/guide/lost-and-found-co-walkthrough"
+        },
+        {
+          "badge": "อัปเดตแล้ว",
+          "title": "วัตถุซ่อนหาใน Lost and Found Co",
+          "description": "ติดตามลูกโป่ง แคปซูลของเล่นสีทอง แมนเดรกที่ซ่อนอยู่ และเป้าหมายด่านอื่น ๆ ที่มองข้ามได้ง่าย",
+          "href": "/collectibles/lost-and-found-co-balloon-locations"
+        },
+        {
+          "badge": "ยอดนิยม",
+          "title": "เฉลยด่าน Lost and Found Co",
+          "description": "ดูว่าด่านใดต้องเก็บกวาดอย่างระมัดระวังที่สุด และจัดการคดีเนื้อเรื่อง คำขอ และเป้าหมายเสริมอย่างไร",
+          "href": "/mechanics/lost-and-found-co-levels"
+        },
+        {
+          "badge": "ใหม่",
+          "title": "ความสำเร็จ Lost and Found Co",
+          "description": "ทำความสำเร็จ Steam ทั้ง 31 รายการด้วยเส้นทางจบด่านและกลยุทธ์เก็บกวาด",
+          "href": "/guide/lost-and-found-co-100-completion"
+        },
+        {
+          "badge": "ยอดนิยม",
+          "title": "ตำแหน่ง Juju ใน Lost and Found Co",
+          "description": "หา Juju ที่ซ่อนอยู่ จดจำโครงร่างสีเทาที่สั่นไหว และเก็บคำใบ้ไว้ใช้กับเป้าหมายที่ดื้อรั้น",
+          "href": "/items/lost-and-found-co-juju-locations"
+        },
+        {
+          "badge": "ไกด์",
+          "title": "ตัวละคร Lost and Found Co",
+          "description": "พบกับ Ducky, Mei, Kit และ Zorro และเรียนรู้ว่าตัวละครหลักเชื่อมโยงกับ Plumville และการตกแต่งห้องอย่างไร",
+          "href": "/mechanics/lost-and-found-co-characters"
+        },
+        {
+          "badge": "ไกด์",
+          "title": "เควสต์เสริม Lost and Found Co",
+          "description": "เคลียร์คำขอ KOZ, Playtime at Kenta's, เป้าหมายเสริม และเนื้อหาเสริมอื่น ๆ",
+          "href": "/quests/lost-and-found-co-side-quests"
+        },
+        {
+          "badge": "ใหม่",
+          "title": "การวางจำหน่าย Lost and Found Co บน Switch",
+          "description": "ติดตามช่วงเวลาวางจำหน่าย Nintendo Switch และ Switch 2 ที่ยืนยันแล้ว พร้อมรายละเอียดแพลตฟอร์ม",
+          "href": "/platforms/lost-and-found-co-switch-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Lost and Found Co คืออะไร?",
+      "paragraphs": [
+        "Lost and Found Co คือเกมผจญภัยค้นหาวัตถุสุดอบอุ่นจาก Bit Egg Inc. คุณรับบทเป็น Ducky เป็ดที่กลายร่างเป็นเด็กฝึกงานมนุษย์ และช่วย Mei เทพธิดาที่กำลังเลือนหายทำธุรกิจตามหาของหายใน Plumville แต่ละคดีพาคุณผ่านฉากวาดมือแบบหลายชั้นเพื่อตามหาวัตถุที่หายไป แก้ปริศนาเล็ก ๆ และเปิดเผยเรื่องราวเบื้องหลังชาวเมือง",
+        "แคมเปญมี 11 บทเนื้อเรื่องและมากกว่า 15 ด่าน พร้อมคำขอ เป้าหมายเสริม Juju ที่ซ่อนอยู่ และห้องที่คุณตกแต่งได้ด้วยเฟอร์นิเจอร์จากร้านของ Kit อัปเดตหลังวางจำหน่ายได้เพิ่มด่านใหม่และการแปลภาษา ขณะที่การวางจำหน่ายบน Switch และ Switch 2 มีแผนไว้ช่วงต้นปี 2027"
+      ],
+      "stats": [
+        {
+          "label": "ผู้พัฒนา",
+          "value": "Bit Egg Inc."
+        },
+        {
+          "label": "แพลตฟอร์ม",
+          "value": "PC / Steam"
+        },
+        {
+          "label": "แนวเกม",
+          "value": "ค้นหาวัตถุ"
+        },
+        {
+          "label": "วางจำหน่าย",
+          "value": "5 มี.ค. 2026"
+        },
+        {
+          "label": "ขายได้",
+          "value": "100K+"
+        },
+        {
+          "label": "บท",
+          "value": "11"
+        }
+      ],
+      "cta": "สำรวจไกด์ทั้งหมด"
+    },
+    "explore": {
+      "title": "สำรวจวิกิ Lost and Found Co",
+      "description": "ทำทุกด่านใน Lost and Found Co ด้วยไกด์เดินเกม ตำแหน่งวัตถุซ่อนหา เส้นทางเควสต์เสริม เช็กลิสต์ความสำเร็จ เคล็ดลับตกแต่งห้อง และความครอบคลุมอัปเดต",
+      "modules": [
+        {
+          "order": 1,
+          "name": "ไกด์เดินเกม Lost and Found Co",
+          "description": "ทำตามแคมเปญเนื้อเรื่องตั้งแต่คดีแรกจนถึงบทสุดท้ายด้วยวิธีค้นหาที่ปฏิบัติได้จริง คำแนะนำลำดับด่าน และเส้นทางเก็บกวาดสำหรับเป้าหมายที่ดื้อรั้น",
+          "href": "/guide/lost-and-found-co-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "คลิกเป้าหมายบน HUD เพื่อรับคำใบ้ฟรีก่อนค้นในห้อง"
+            },
+            {
+              "label": "2",
+              "detail": "สแกนเส้นขอบฟ้าและพร็อพที่แขวนก่อน จากนั้นชั้นวางและเคาน์เตอร์ แล้วจึงของเกะกะบนพื้น"
+            },
+            {
+              "label": "3",
+              "detail": "เปิดป้าย ลิ้นชัก กล่อง ถาด และขอบพร็อพก่อนจะตรวจฉากทั้งหมดซ้ำ"
+            },
+            {
+              "label": "4",
+              "detail": "ซูมเข้าเป้าหมายเล็ก ๆ และแพนผ่านพื้นที่ที่แน่นขนัดแทนการคลิกแบบเดาสุ่ม"
+            },
+            {
+              "label": "5",
+              "detail": "เก็บคำใบ้ Juju ไว้ใช้กับวัตถุชิ้นสุดท้ายที่ดื้อรั้นหรือโซนสุดท้ายที่ยังไม่ได้ค้น"
+            },
+            {
+              "label": "6",
+              "detail": "เล่นด่านซ้ำเพื่อเก็บเป้าหมายเสริมและความสำเร็จขณะที่เลย์เอาต์ยังจำได้แม่น"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "ตำแหน่งวัตถุซ่อนหาใน Lost and Found Co",
+          "description": "ติดตามเป้าหมายที่มองข้ามได้ง่ายทั่ว Plumville ตั้งแต่ลูกโป่งในอีเวนต์และแคปซูลของเล่นสีทอง ไปจนถึงแมนเดรกที่ซ่อนอยู่และ Juju เสริม",
+          "href": "/collectibles/lost-and-found-co-balloon-locations",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ลูกโป่ง",
+              "detail": "หาลูกโป่งทั้ง 8 ลูกใน What an Unlucky Day รวมถึงป้ายโดนัทและป้ายไก่"
+            },
+            {
+              "label": "แคปของเล่น",
+              "detail": "แคปซูลของเล่นสีทองเป็นเป้าหมายเสริมบน Hop Street"
+            },
+            {
+              "label": "แมนเดรก",
+              "detail": "ตรวจแปลงเพาะปลูกในฟาร์มทางซ้ายของบ้านใน Runaway Foxes"
+            },
+            {
+              "label": "Juju",
+              "detail": "วัตถุสีเทาที่สั่นไหวซ่อนคำใบ้เพิ่มเติมไว้ทั่วด่านต่าง ๆ ใน Plumville"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "ไกด์ Lost and Found Co สำหรับผู้เริ่มต้น",
+          "description": "เรียนรู้ลูปการค้นหาวัตถุซ่อนหาหลัก ประเภทเป้าหมาย นิสัยการค้นหา และเคล็ดลับความก้าวหน้าในช่วงแรกที่ทำให้บทแรก ๆ ลื่นไหลขึ้นมาก",
+          "href": "/guide/lost-and-found-co-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "เคลียร์เป้าหมายบน HUD ก่อนเพราะเป็นเส้นทางที่ต้องทำและให้คำใบ้ฟรี"
+            },
+            {
+              "label": "2",
+              "detail": "ค้นทีละโซนแทนการคลิกสุ่มทั่วทั้งฉาก"
+            },
+            {
+              "label": "3",
+              "detail": "มองคำใบ้แบบถูกบดบังเป็นสัญญาณให้เปิดพร็อพที่โต้ตอบได้ใกล้ที่สุด"
+            },
+            {
+              "label": "4",
+              "detail": "ทำตามสายเควสต์จนกว่ารายการเป้าหมายจะหยุดเปลี่ยนแปลง"
+            },
+            {
+              "label": "5",
+              "detail": "เก็บ Juju ตั้งแต่เนิ่น ๆ แต่ใช้คำใบ้ในช่วงท้าย"
+            },
+            {
+              "label": "6",
+              "detail": "กลับมาเก็บเป้าหมายเสริมและความสำเร็จของด่านหลังจบเนื้อเรื่อง"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "เฉลยด่าน Lost and Found Co",
+          "description": "เปรียบเทียบความต้องการในการเก็บกวาดแต่ละด่าน และใช้เส้นทางเฉพาะสำหรับแผนที่แน่นขนัด ด่านคำขอ และเนื้อหาอัปเดตช่วงหลัง",
+          "href": "/mechanics/lost-and-found-co-levels",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Hop Street, Jolly Jug Isle และ Nekoten Cafe เป็นด่านเก็บกวาดที่แน่นที่สุด"
+            },
+            {
+              "label": "A",
+              "detail": "Breezy Hill Heights, Leo Family's Home และ Kenta's House เป็นแผนที่หลายโซนที่วุ่นวาย"
+            },
+            {
+              "label": "B",
+              "detail": "Love After Life และ Fangtastic Feast เพิ่มห้องแบบหลายชั้นและรายการเป้าหมายใหม่กว่า"
+            },
+            {
+              "label": "C",
+              "detail": "The First Request และ Morning Madness เป็นด่านช่วงแรกสำหรับเรียนรู้เส้นทางการค้นหา"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "เควสต์เสริม Lost and Found Co",
+          "description": "ครอบคลุมด่านคำขอเสริมและเควสต์ KOZ รวมถึงเป้าหมาย เส้นทางเป้าหมายที่ซ่อนอยู่ เงื่อนไขการทำสำเร็จ และรางวัล",
+          "href": "/quests/lost-and-found-co-side-quests",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "คำขอ",
+              "detail": "งานเสริมใช้สถานที่ซ้ำพร้อมรายการเป้าหมายของตัวเอง"
+            },
+            {
+              "label": "KOZ",
+              "detail": "Waiting for a Bite และ Apartment Apocalypse คือการล่าที่ใช้เวลานานที่สุดในบรรดาเนื้อหาเสริม"
+            },
+            {
+              "label": "Kenta",
+              "detail": "Playtime at Kenta's เป็นเควสต์สไตล์ KOZ ที่ง่ายกว่า"
+            },
+            {
+              "label": "เสริม",
+              "detail": "ตรวจ UI To-do หลังจากปลดล็อกเควสต์ และเคลียร์เป้าหมายโบนัสในการเล่นซ้ำ"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "ไกด์ความสำเร็จ Lost and Found Co",
+          "description": "ติดตามรายการความสำเร็จ Steam ปัจจุบันและเงื่อนไขการปลดล็อกสำหรับด่านเนื้อเรื่อง ด่านคำขอ เป้าหมายเสริม และความสำเร็จครบถ้วน",
+          "href": "/guide/lost-and-found-co-achievement-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Unlucky Ducky",
+              "detail": "ทำด่านเนื้อเรื่อง Unlucky Ducky ให้สำเร็จเพื่อรับความสำเร็จชื่อนี้"
+            },
+            {
+              "label": "The Sus Fox",
+              "detail": "ได้จากการทำด่าน The Suspicious Fox ให้สำเร็จ"
+            },
+            {
+              "label": "Waiting for a Bite",
+              "detail": "เคลียร์ด่านคำขอและรายการเป้าหมายเสริมทั้งหมด"
+            },
+            {
+              "label": "Tea Time Troubles",
+              "detail": "ทำด่านคำขอ Tea Time Troubles ให้สำเร็จ"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "การปรับแต่งห้องใน Lost and Found Co",
+          "description": "สำรวจ Ducky's Room ด้วยเฟอร์นิเจอร์และของตกแต่งจากร้านของ Kit รวมถึงวิธีได้รับ วาง ปรับขนาด และจัดเลเยอร์ของตกแต่ง",
+          "href": "/mechanics/lost-and-found-co-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ร้าน Kit Shop",
+              "detail": "ซื้อเฟอร์นิเจอร์และของตกแต่งจาก Kit Shop ในเกม"
+            },
+            {
+              "label": "ของตกแต่ง",
+              "detail": "ย้าย ปรับขนาด และจัดเลเยอร์ไอเทมเพื่อสร้างดีไซน์ห้องที่แตกต่างกัน"
+            },
+            {
+              "label": "ออฟฟิศ",
+              "detail": "ศาลเจ้าของ Mei กลายเป็นศูนย์กลางออฟฟิศเมื่อธุรกิจเติบโต"
+            },
+            {
+              "label": "ฮาโลวีน",
+              "detail": "แพตช์ 1.2.1 เพิ่มไอเทมใหม่ รวมถึงของตกแต่งธีมฮาโลวีน"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "อัปเดตและเนื้อหาใหม่ของ Lost and Found Co",
+          "description": "ติดตามอัปเดตอย่างเป็นทางการ ด่านที่เพิ่มใหม่ การเปลี่ยนแปลงการแปลภาษา การแก้ไขเกมเพลย์ และเวอร์ชัน Nintendo Switch และ Switch 2 ที่ประกาศไว้",
+          "href": "/platforms/lost-and-found-co-switch-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ฤดูใบไม้ร่วง",
+              "detail": "อัปเดตวันที่ 1 ตุลาคม 2026 เพิ่ม Love After Life และ Fangtastic Feast"
+            },
+            {
+              "label": "Switch",
+              "detail": "เวอร์ชัน Nintendo Switch และ Switch 2 มีแผนไว้ช่วงต้นปี 2027"
+            },
+            {
+              "label": "เกาหลี",
+              "detail": "อัปเดตเดือนตุลาคมเพิ่มการแปลภาษาเกาหลีและฟีเจอร์ประวัติบทสนทนา"
+            },
+            {
+              "label": "แพตช์",
+              "detail": "เวอร์ชัน 1.2.1 แก้ไขปัญหา soft-lock ใน Love After Life และบั๊กการแสดงเป้าหมายใน Fangtastic Feast"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "คำถามที่พบบ่อยเกี่ยวกับ Lost and Found Co",
+      "description": "คำตอบตรงประเด็นเกี่ยวกับโครงสร้างเนื้อเรื่อง Lost and Found Co คำใบ้ Juju ระยะเวลาเล่น แพลตฟอร์ม และความสำเร็จ",
+      "items": [
+        {
+          "question": "Lost and Found Co คืออะไร?",
+          "answer": "Lost and Found Co คือเกมผจญภัยค้นหาวัตถุสุดอบอุ่นจาก Bit Egg Inc. คุณรับบทเป็น Ducky เป็ดที่กลายร่างเป็นเด็กฝึกงานมนุษย์ และช่วยเทพธิดา Mei ตามหาของหายให้ชาว Plumville"
+        },
+        {
+          "question": "Lost and Found Co มีกี่บท?",
+          "answer": "Lost and Found Co มี 11 บทเนื้อเรื่องและมากกว่า 15 ด่านค้นหาวัตถุซ่อนหา คำขอ เป้าหมายเสริม และด่านหลังวางจำหน่ายเพิ่มเนื้อหานอกเหนือจากแคมเปญหลัก"
+        },
+        {
+          "question": "ใช้เวลาเล่น Lost and Found Co นานเท่าไรจึงจะจบ?",
+          "answer": "Lost and Found Co ใช้เวลาประมาณ 8.5 ชั่วโมงสำหรับเนื้อเรื่องหลัก ประมาณ 13 ชั่วโมงสำหรับเนื้อเรื่องหลักพร้อมเป้าหมายเสริม และประมาณ 18 ชั่วโมงสำหรับการเล่นแบบเก็บครบทุกอย่าง"
+        },
+        {
+          "question": "Juju ทำงานอย่างไรใน Lost and Found Co?",
+          "answer": "Juju ใน Lost and Found Co คือผู้ช่วยที่ซ่อนตัวในร่างวัตถุธรรมดาที่มีโครงร่างสีเทาสั่นไหว การจับได้หนึ่งตัวจะให้คำใบ้เพิ่มเติม ซึ่งควรเก็บไว้ใช้กับเป้าหมายชิ้นสุดท้ายที่ดื้อรั้นในด่าน"
+        },
+        {
+          "question": "Lost and Found Co มีความสำเร็จกี่รายการ?",
+          "answer": "Lost and Found Co มีความสำเร็จ Steam 31 รายการ ส่วนใหญ่ผูกกับการทำด่านเนื้อเรื่อง ด่านคำขอ เป้าหมายเสริม และการเก็บกวาดด่านให้ครบ"
+        },
+        {
+          "question": "Lost and Found Co มีให้เล่นบนแพลตฟอร์มใดบ้าง?",
+          "answer": "Lost and Found Co มีให้เล่นบน PC ผ่าน Steam และผ่านการรับรอง Steam Deck เวอร์ชัน Nintendo Switch และ Switch 2 มีแผนไว้ช่วงต้นปี 2027"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "พร้อมจะหาทุกสิ่งใน Plumville หรือยัง?",
+      "description": "ทำตามไกด์ทีละขั้นตอน ตำแหน่งวัตถุซ่อนหา เฉลยปริศนา และคู่มือของสะสมสำหรับ Lost and Found Co",
+      "primary": "เรียกดูไกด์เดินเกม",
+      "secondary": "เล่นบน Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "ไกด์ Lost and Found Co",
+    "overviewDescription": "เริ่มด้วยไกด์ผู้เริ่มต้น Lost and Found Co ไกด์เนื้อเรื่อง ความช่วยเหลือด้านความสำเร็จ และเคล็ดลับปฏิบัติได้จริงสำหรับทุกด่านค้นหาวัตถุซ่อนหา"
+  },
+  "quests": {
+    "overviewTitle": "ไกด์เควสต์ Lost and Found Co",
+    "overviewDescription": "ทำตามไกด์เควสต์ Lost and Found Co สำหรับบทเนื้อเรื่อง คำขอเสริม เป้าหมายเสริม และการค้นหาวัตถุซ่อนหาทุกจุดที่ยาก"
+  },
+  "items": {
+    "overviewTitle": "ตำแหน่งไอเทม Lost and Found Co",
+    "overviewDescription": "ค้นหาตำแหน่งไอเทม Lost and Found Co สำหรับ Juju ถุงเท้า คูปอง จาน กระเป๋าเงิน และวัตถุเควสต์อื่น ๆ ทั่ว Plumville"
+  },
+  "collectibles": {
+    "overviewTitle": "ของสะสม Lost and Found Co",
+    "overviewDescription": "ตามหาของสะสม Lost and Found Co รวมถึงลูกโป่ง แคปซูลของเล่นสีทอง ด้วงหายาก ลูกเจี๊ยบที่หายไป และห้องลับที่ซ่อนอยู่"
+  },
+  "mechanics": {
+    "overviewTitle": "กลไกเกม Lost and Found Co",
+    "overviewDescription": "ทำความเข้าใจตัวละคร Lost and Found Co โครงสร้างด่าน เป้าหมายเสริม ห้องลับ และระบบเบื้องหลังการค้นหาแต่ละครั้ง"
+  },
+  "platforms": {
+    "overviewTitle": "แพลตฟอร์ม Lost and Found Co",
+    "overviewDescription": "ตรวจสอบการวางจำหน่าย Lost and Found Co บน Steam, Steam Deck, Android, Nintendo Switch และ Switch 2 พร้อมรายละเอียดการวางจำหน่ายและบันทึกการตั้งค่า"
+  },
+  "community": {
+    "overviewTitle": "คอมมูนิตี้ Lost and Found Co",
+    "overviewDescription": "เรียกดูแหล่งข้อมูลคอมมูนิตี้ Lost and Found Co รีวิวจากผู้เล่น การพูดคุยบน Reddit และการค้นพบที่แชร์กันจากนักล่าสมบัติเพื่อนนักเล่น"
+  },
+  "shared": {
+    "wikiNavigation": "การนำทางวิกิ",
+    "startHere": "เริ่มที่นี่",
+    "beginnerGuide": "ไกด์สำหรับผู้เริ่มต้น",
+    "collectiblesGuide": "ไกด์ของสะสม",
+    "browseGuides": "เรียกดูไกด์ทั้งหมด",
+    "updated": "อัปเดตแล้ว",
+    "playOnRoblox": "เล่นบน Steam",
+    "inThisSection": "ในส่วนนี้",
+    "tableOfContents": "สารบัญ",
+    "nextSteps": "ขั้นตอนถัดไป",
+    "needHelp": "ต้องการความช่วยเหลือ?",
+    "relatedReading": "อ่านที่เกี่ยวข้อง",
+    "relatedGuides": "ไกด์ที่เกี่ยวข้อง",
+    "readMore": "อ่านเพิ่มเติม",
+    "officialMedia": "สื่ออย่างเป็นทางการ",
+    "home": "หน้าแรก",
+    "noGuidesAvailable": "ยังไม่มีไกด์ที่พร้อมใช้งาน กลับมาดูใหม่เร็ว ๆ นี้!"
+  },
+  "footer": {
+    "aboutTitle": "วิกิ Lost and Found Co",
+    "about": "วิกิ Lost and Found Co เป็นศูนย์รวมไกด์ที่สร้างโดยแฟนคลับอย่างอิสระ ครอบคลุมไกด์เดินเกม วัตถุซ่อนหา ปริศนา ของสะสม ตัวละคร และเคล็ดลับสำคัญสำหรับการสำรวจ Plumville",
+    "quickLinks": "ลิงก์ด่วน",
+    "guides": "ไกด์",
+    "legal": "กฎหมาย",
+    "copyright": "2026 วิกิ Lost and Found Co ไม่ได้มีส่วนเกี่ยวข้องกับ Bit Egg Inc. หรือพันธมิตร",
+    "description": "เกมผจญภัยค้นหาวัตถุสุดอบอุ่นจาก Bit Egg Inc. สำรวจ Plumville แก้ปริศนา และหาของสะสมทุกชิ้น",
+    "playGame": "เล่นบน Steam",
+    "officialDiscord": "Discord อย่างเป็นทางการ",
+    "officialYoutube": "YouTube อย่างเป็นทางการ",
+    "vvBuilder": "เว็บไซต์อย่างเป็นทางการ",
+    "officialX": "X อย่างเป็นทางการ",
+    "officialInstagram": "Instagram อย่างเป็นทางการ",
+    "officialFacebook": "Facebook อย่างเป็นทางการ",
+    "officialTikTok": "TikTok อย่างเป็นทางการ",
+    "officialBluesky": "Bluesky อย่างเป็นทางการ",
+    "beginnerGuide": "ไกด์สำหรับผู้เริ่มต้น",
+    "questGuides": "ไกด์เควสต์",
+    "itemGuides": "ตำแหน่งไอเทม",
+    "collectibleGuides": "ของสะสม",
+    "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+    "termsOfService": "ข้อกำหนดการให้บริการ"
+  }
+}
